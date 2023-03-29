@@ -1,0 +1,48 @@
+body {
+    background-color: #c3c3e1; 
+}
+
+h1, 
+h2 {
+    color: #ff1493;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: #ff1493;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:hover {
+    color: #ff1493;
+    font-family: 'Archivo', sans-serif;
+}
+
+.btn:focus, .btn:active, .btn:visited {
+    outline: none;
+    box-shadow: none ;
+    background-color: #ff1493;
+}
+
+#finalScore {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+span {
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+#questionTitle {
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#answerCheck {
+    font-style: italic;
+    color: #ff1493;
+}
